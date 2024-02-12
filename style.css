@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box_shapka{
+    background-color: #FAE1AF;
+    width: 100%;
+    display: flex;
+}
+img{
+    width: 125px;
+}
+a{
+
+ font-size: 25px;
+ text-decoration: none;
+ color: black;
+}
+.nav{
+    width: 80%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+
+}
